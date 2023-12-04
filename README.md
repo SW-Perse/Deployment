@@ -16,10 +16,10 @@ The purposes of this repository are :
   where dict is a properly formatted dictionary variable
 
 ## Web Dashboard
-The EDA dashboard can be viewed [here] (https://streamlit-heroku-app-0980a0716d71.herokuapp.com/)
+The EDA dashboard can be viewed [here](https://streamlit-heroku-app-0980a0716d71.herokuapp.com/)
 
 ## MLFLow server
-The MLFlow UI and registry can be found [here] (https://mlflow-heroku-app-014f2f811fa9.herokuapp.com/)
+The MLFlow UI and registry can be found [here](https://mlflow-heroku-app-014f2f811fa9.herokuapp.com/)
 
 ## FastAPI
-The FastAPI documentation is available [here] (https://fastapi-heroku-app-cd532d0f29eb.herokuapp.com/docs)
+The FastAPI documentation is available [here](https://fastapi-heroku-app-cd532d0f29eb.herokuapp.com/docs)
