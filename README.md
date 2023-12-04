@@ -5,6 +5,8 @@ The purposes of this repository are :
 - analyzing rental fees and training a machine learning model to predict optimal rental price for
 - serving this model via an API containing a /predict endpoint
 
+This repositoryb is my Deployment project for Jedha's Machine Learning Engineer certificate.
+
 ## Requirements 
 - To run EDA notebook : `pip install -r requirements.txt`
 - To run Streamlit app : `sh heroku_push.sh` with your own app name in place
