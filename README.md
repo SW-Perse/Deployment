@@ -6,13 +6,13 @@ The purposes of this repository are :
 - serving this model via an API containing a /predict endpoint
 
 ## Requirements 
-- To run EDA notebook : pip install -r requirements.txt
-- To run Streamlit app : sh heroku_push.sh with your own app name in place
-- To run MLFlow UI : sh heroku_push.sh with your own app name in place <br>
-  To train model and log training data on MLFlow server : python train.py
-- To run FastAPI : sh heroku_push.sh with your own app name in place <br>
+- To run EDA notebook : `pip install -r requirements.txt`
+- To run Streamlit app : `sh heroku_push.sh` with your own app name in place
+- To run MLFlow UI : `sh heroku_push.sh` with your own app name in place <br>
+  To train model and log training data on MLFlow server : `python train.py`
+- To run FastAPI : `sh heroku_push.sh` with your own app name in place <br>
   To make a prediction request : <br>
-  r = requests.post("https://fastapi-heroku-app-cd532d0f29eb.herokuapp.com/predict", json=dict) <br>
+  `r = requests.post("https://fastapi-heroku-app-cd532d0f29eb.herokuapp.com/predict", json=dict)` <br>
   where dict is a properly formatted dictionary variable
 
 ## Web Dashboard
