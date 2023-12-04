@@ -12,7 +12,7 @@ The purposes of this repository are :
   To train model and log training data on MLFlow server : python train.py
 - To run FastAPI : sh heroku_push.sh with your own app name in place
   To make a prediction request :
-  r = requests.post("https://fastapi-heroku-app-cd532d0f29eb.herokuapp.com/predict", json=dict)
+  r = requests.post("https://fastapi-heroku-app-cd532d0f29eb.herokuapp.com/predict", json=dict)  
   where dict is a properly formatted dictionary variable
 
 ## Web Dashboard
