@@ -1,0 +1,5 @@
+base = "dark"
+primaryColor = "#1F77B4"  # Adjust the color as needed
+backgroundColor = "#222"  # Adjust the color as needed
+textColor = "#FFFFFF"  # Adjust the color as needed
+font = "sans-serif"

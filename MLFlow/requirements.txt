@@ -1,0 +1,7 @@
+boto3
+pandas
+gunicorn
+scikit-learn
+matplotlib
+seaborn
+mlflow

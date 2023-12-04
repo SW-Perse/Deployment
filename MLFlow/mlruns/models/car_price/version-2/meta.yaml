@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1701641460222
+current_stage: None
+description: null
+last_updated_timestamp: 1701641460222
+name: car_price
+run_id: f19ec781b956459e8532bb0157028dad
+run_link: null
+source: file:///C:/Users/sophi/Desktop/DevData/JEDHA/Projets/Deployment/MLFlow/mlruns/268569511242570484/f19ec781b956459e8532bb0157028dad/artifacts/modeling_car_price
+status: READY
+status_message: null
+storage_location: file:///C:/Users/sophi/Desktop/DevData/JEDHA/Projets/Deployment/MLFlow/mlruns/268569511242570484/f19ec781b956459e8532bb0157028dad/artifacts/modeling_car_price
+user_id: null
+version: 2

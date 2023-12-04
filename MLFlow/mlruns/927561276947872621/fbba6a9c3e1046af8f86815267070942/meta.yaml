@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sophi/Desktop/DevData/JEDHA/Projets/Deployment/MLFlow/mlruns/927561276947872621/fbba6a9c3e1046af8f86815267070942/artifacts
+end_time: 1701642602110
+entry_point_name: ''
+experiment_id: '927561276947872621'
+lifecycle_stage: active
+run_id: fbba6a9c3e1046af8f86815267070942
+run_name: agreeable-mouse-643
+run_uuid: fbba6a9c3e1046af8f86815267070942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701642595101
+status: 3
+tags: []
+user_id: sophi
